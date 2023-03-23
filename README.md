@@ -9,8 +9,12 @@ SQL
 Python
 
 
-Viewing the data
+_ Viewing the data_
+
 Querying in SSMS (SQL Server Management Studio) using self joins, CTEs, procedures, group by to view the data required
+
 Data Cleaning
+
 Data Analysis (Q/A)
-Data Transformation for dashboard visualization
+
+-Data Transformation for dashboard visualization
